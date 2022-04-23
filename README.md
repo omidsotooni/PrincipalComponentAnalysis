@@ -1,6 +1,8 @@
 - # Principal Component Analysis (PCA)
 Implementation of PCA with python from scratch, An Example by Principal Component Analysis
 
+#-------------------------------------------------------------
+
 #en
 
 Implementation of Principal Component Analysis
@@ -24,7 +26,8 @@ List of data [(1, 2, 11), (3, 0, 5), (6, 1, 9), (4, 2, 1), (10, 3, 6)]
 
 
 
-#------------------------------------------------------------------------
+#-------------------------------------------------------------
+
 #fa
 
 پیاده سازی pca با استفاده از کتابخانه numpy در پایتون
